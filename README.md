@@ -1,11 +1,12 @@
 Mitral cell model with standard parameters for the paper:
 
-Shen, G.Y., Chen, W. R., Midtgaard, J., Shepherd, G.M., and Hines, M.L.
+- Shen, G.Y., Chen, W. R., Midtgaard, J., Shepherd, G.M., and Hines, M.L.
 (1999)
 Computational Analysis of Action Potential Initiation in Mitral
 Cell Soma and Dendrites Based on Dual Patch Recordings.
 Journal of Neurophysiology  82: 3006
 
+\
 Questions about how to use this simulation should be
 directed to
 	michael.hines@yale.edu
